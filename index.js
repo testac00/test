@@ -1,2 +1,5 @@
 const addFile = () =>{
 }
+
+const removeFile = () => {
+}
